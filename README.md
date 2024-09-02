@@ -4,5 +4,5 @@
 
 ## 目录
 ### 日升之卷 
-1. [楔子](卷一/楔子.md)
-2. [Chapter 1 - 学部长 Headmaster](卷一/Chapter%201%20-%20学部长%20Headmaster.md)
+1. [楔子](让大家都幸福的魔法/卷一：日升之卷/楔子.md)
+2. [Ch. 1 - 学部长 Headmaster](让大家都幸福的魔法/卷一：日升之卷/Ch.%201%20-%20学部长%20Headmaster.md)
