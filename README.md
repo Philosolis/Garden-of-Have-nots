@@ -1,6 +1,6 @@
 # 无有之庭
 
-![pic](素材/bkg_cc0.jpg)
+![bkg](bkg_cc0.jpg)
 
 ## 目录
 ### 日升之卷 
