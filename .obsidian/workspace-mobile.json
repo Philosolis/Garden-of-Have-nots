@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "b25ef703df1bcf50",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aec8f22ee86c62c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e12b42589a1b373a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "卷一：日升之卷/Ch.3 - 伽蓝之堂.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a396f1453069d4b4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "21074880285d4b81",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "65dbcf1c943db2e8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "547858ff3b3b5375",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a743e5390773307b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "89b21319eecce8f6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e8fe984bbff7cbbc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "卷一：日升之卷/Ch.3 - 伽蓝之堂.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0d6afa63fe003629",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "卷一：日升之卷/Ch.3 - 伽蓝之堂.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fd478956c2377412",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "卷一：日升之卷/Ch.3 - 伽蓝之堂.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e12b42589a1b373a",
+  "lastOpenFiles": [
+    "README.md",
+    "卷一：日升之卷/Ch.3 - 伽蓝之堂.md",
+    "卷一：日升之卷/Ch.3.md",
+    "卷一：日升之卷/楔子.md",
+    "卷一：日升之卷/Ch.2 - 与生俱来.md",
+    "卷一：日升之卷/Ch.1 - 学部长 Headmaster.md",
+    "bkg_cc0.jpg",
+    "PDF/楔子.pdf",
+    "PDF/Chapter 1 - 学部长 Headmaster.pdf",
+    "EnglishVer/bkg_cc0.jpg",
+    "EnglishVer/Volume I - Raising Sun/Prologue.md",
+    "EnglishVer/Volume I - Raising Sun/Ch.2 - Innate.md",
+    "EnglishVer/Volume I - Raising Sun/Ch.1 - Headmaster.md",
+    "EnglishVer/Readme.md",
+    "卷一：日升之卷",
+    "PDF",
+    "EnglishVer/Volume I - Raising Sun",
+    "EnglishVer"
+  ]
+}
