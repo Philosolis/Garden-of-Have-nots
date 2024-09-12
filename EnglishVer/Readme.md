@@ -7,7 +7,7 @@ _English Version, translated by ChatGPT, proofread by me._
 
 > If we reshape the path of Magecraft with modern technology, can we discard its reactionary nature?
 >
-> Or perhaps, the essence of Magecraft can never change. It is reactionary in its very core. Magecraft is the refusal of the ancient mysteries to lose their power, the desperate resistance of the old world. In that case, Magecragft is not a science, which I have yet to understand, but merely a lie.
+> Or perhaps, the essence of Magecraft can never change. It is reactionary in its very core. Magecraft is the refusal of the ancient mysteries to lose their power, the desperate resistance of the old world. In that case, Magecraft is not a science, which I have yet to understand, but merely a lie.
 >
 > Either we save the world from lies, or let the flame in Clock Tower burns.
 
