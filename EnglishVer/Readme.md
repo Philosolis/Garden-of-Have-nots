@@ -1,3 +1,4 @@
+I guess there would not be many people need this, so I am actually not very positive updating this. Let me know if you want this English version updated so that you can read it.
 
 # Garden of Have-nots
 
